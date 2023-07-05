@@ -1,2 +1,2 @@
 #!/bin/bash
-mdkir welcome welcome/to/ welcome/to/school
+mdkir -p welcome/to/school
